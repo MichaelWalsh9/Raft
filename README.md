@@ -1,0 +1,1 @@
+Implementaiton of Raft distributed consensus protocol as part of Boston University's CS350 lecture. Raft.go code is original, other files provided by course.
